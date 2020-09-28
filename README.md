@@ -24,7 +24,7 @@ This code creates an application that generates a random password based on user-
 
 ## Web Access
 
-Click here for the [Password-Generator] access https://marynapr.github.io/Password-Generator/
+Click here for the [Password-Generator] access https://marynapr.github.io/My-Password-Generator/.
 
 
 This document was created by MarynaPR. Feel free to contact me with any questions via email pryadkamaryna@gmail.com
