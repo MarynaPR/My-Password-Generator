@@ -3,12 +3,12 @@
 The following image demonstrates the application functionality:
 
 
-![Screenshot1](../My-Password-Generator/Images/ScreenshotL.png)
-![Screenshot2](../My-Password-Generator/Images/ScreenshotValid.png)
-![Screenshot3](../My-Password-Generator/Images/ScreenshotLower.png)
-![Screenshot4](../My-Password-Generator/Images/ScreenshotUpper.png)
-![Screenshot5](../My-Password-Generator/Images/ScreenshotNumber.png)
-![Screenshot6](../My-Password-Generator/Images/ScreenshotSpecial.png)
+![Screenshot1](./Images/ScreenshotL.png)
+![Screenshot2](./Images/ScreenshotValid.png)
+![Screenshot3](./Images/ScreenshotLower.png)
+![Screenshot4](./Images/ScreenshotUpper.png)
+![Screenshot5](./Images/ScreenshotNumber.png)
+![Screenshot6](./Images/ScreenshotSpecial.png)
 
 
 
